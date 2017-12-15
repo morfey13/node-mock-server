@@ -43,7 +43,7 @@ Default value: `3001`
 A number value that defines the application port.
 
 #### options.uiPath
-Type: `string`
+Type: `String`
 Default value: `/`
 
 A string value that defines the path for the node-mock-server UI.
